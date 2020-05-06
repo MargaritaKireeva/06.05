@@ -90,7 +90,6 @@ int main()
 {
 
 	ifstream in("input.txt");
-	ofstream out("output.txt");
 	char x;
 	while (in >> x)
 	{
